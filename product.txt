@@ -1,0 +1,5 @@
+ 1 Burger 120 0
+ 2 Momos 100 0
+ 3 Pizza 130 0
+ 4 Muffin 85 0
+ 5 Rolls 75 0
